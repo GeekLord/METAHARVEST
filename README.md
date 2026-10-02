@@ -8,7 +8,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 # What This Tool Does
 
-— **Core Capabilities**
+ ### Core Capabilities
 
 
 - **Title Extraction**: Captures the page title to identify the main topic or branding.
@@ -77,7 +77,7 @@ This is an advanced Python-based Metadata Web Scraper designed to extract rich, 
 
 - **Create your virtual environment**:
 
-      virtualenv my_temp_venv
+      python3 -m virtualenv my_temp_venv
       source my_temp_venv/bin/activate 
   
 
